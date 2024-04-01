@@ -13,7 +13,7 @@ Investigate and compare two files to verify if they are identical.
 <h2>Steps Taken</h2>
 
 - Used `ls` command to list and identify the two files I will be investigating.
-- Read the contexts of `file1.txt` and `file2txt` using the `cat` command.
+- Read the contexts of `file1.txt` and `file2.txt` using the `cat` command.
 
 Upon first look, the contents of these files seem identical. To further verify, we will generate a hash for each file using `sha256sum`.
 
